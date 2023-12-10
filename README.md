@@ -1,6 +1,5 @@
-# HallPass Django Application
+# HallPass
 
-![HallPass Logo](hallpass_logo.png)
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -10,7 +9,7 @@
 
 ## Introduction
 
-The HallPass Django Application is a school safety tool designed to enhance security and supervision in educational institutions. It helps schools keep track of when students leave their classrooms to go to the hallway, ensures that students who should not be unsupervised together are not, and enforces a limit on the number of students allowed in the hallways at any given time.
+HallPass is a school safety tool designed to enhance security and supervision in educational institutions. It helps schools keep track of when students leave their classrooms to go to the hallway, ensures that students who should not be unsupervised together are not, and enforces a limit on the number of students allowed in the hallways at any given time.
 
 This README provides an overview of the HallPass application, its features, installation instructions, and configuration details.
 
